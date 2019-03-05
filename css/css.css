@@ -1,0 +1,31 @@
+body {
+  background-color: #222222;
+  padding: 20px;
+  font-family: arial;
+  color: #ffffff;
+}
+
+.input {
+  border-color: white;
+  border-style: dotted solid;
+  border-radius: 12px;
+}
+
+.inputSpace {
+  padding: 12px;
+  padding-left: 20px;
+  padding-bottom: 30px;
+}
+
+.output {
+  border-color: white;
+  border-style: dotted solid;
+  border-radius: 12px;
+}
+
+.outputSpace {
+  padding: 12px;
+  padding-left: 20px;
+  padding-bottom: 30px;
+  padding-top: 20px;
+}
